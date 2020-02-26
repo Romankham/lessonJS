@@ -11,7 +11,7 @@
 //     return (a + b);
 // }
 
-let calc = (a, b) => a+b; //стрелочные события
+let calc = (a, b) => a+b; //стрелочная функция
 
 console.log(calc(3, 4));
 
