@@ -97,3 +97,5 @@ if(switcher) {
 console.log(typeof(Boolean('5')));
 // 3)
 console.log(typeof(!!'5')); //Boolean
+
+
